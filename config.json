@@ -1,0 +1,8 @@
+{
+  "model_size": "large",
+  "save_formats": [
+    "txt"
+  ],
+  "save_dir": "f:/output",
+  "device": "CPU"
+}
